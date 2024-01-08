@@ -1,0 +1,311 @@
+.header{
+    height: 600px;
+    background-image: url('./resources/Banner\ Image.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+  
+   
+}
+.bannerHeader{ 
+    width: 832px;
+    height: 256px;
+    color: rgb(255, 255, 255); 
+ 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+.bannerHeader h1{
+    font-size: 72px;
+}
+.bannerHeader h4{
+    font-size: 32;
+}
+.bannerHeader h4, h1{
+    text-align: center;
+    color: rgb(3, 207, 156);
+    margin: 0;
+    padding: 0;
+   
+}
+/* new section item  */
+
+.Promotion{
+    width: 806px;
+    height: 802px;
+  
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+   box-shadow:  0px 0px 15px #000
+}
+.offerItem{
+   
+    height: 107px;
+    margin-top: px;
+ 
+ 
+}
+.offerItem h1{
+    font-size: 88px;
+    color: red;
+    margin: 0;
+    padding: 0;
+}
+.catogory{
+  
+   line-height: 150%;
+
+}
+.catogory p{
+    font-size: 24px;
+}
+.catogory h1{
+    font-size: 48px;
+    color: black;
+}
+.image img{
+   height: 300px;
+   margin-top: 150px;
+  
+   
+}
+.Celebration{
+    margin-top: 50px;
+    width: 1350px;
+    height: 600px;
+    background-image: url('./resources/Vectorrr.png'),linear-gradient(to right, rgba(151, 77, 77, 0), rgba(20, 19, 19, 0.527));
+    background-size: cover;
+   
+    
+  position: relative;
+}
+
+.descrionmain{
+    width: 50%;
+ 
+}
+.descrionmain h1{
+    font-size: 64px;
+  
+}
+.descrionmain p{
+   
+    color: white;
+    font-size: 20px;
+}
+.descriptionHeading{
+    width: 1200px;
+    height: 550px;
+   display: flex;
+   position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   align-items: center;
+}
+.button{
+    border-style: none;
+    background-color: red;
+    color:white;
+    padding: 10px;
+}
+.button:hover{
+    background-color: green;
+    color: red;
+}
+
+/* new section css :start */
+
+.HolidaySels{
+   
+    margin: 50px auto;
+    width: 90%;
+    height: 482px;
+    background-image: linear-gradient(to top, rgba(255,0,0,0), rgba(255, 0, 0, 0.171));
+    position: relative;
+}
+.Holiday-Event{
+   text-align: center;
+    width: 500px;
+  
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    align-items: center;
+    margin: auto auto;
+}
+.Holiday-Event h1{
+    color: #000;
+    margin: 15px;
+}
+.specialist-color{
+    color: red;
+}
+/* new section start */
+
+.bestoffer{
+    margin-top: 40px;
+    width: 1320px;
+    height: 463px;
+    display: flex;
+    align-items: center;
+    box-shadow:  0px 0px 5px #000
+
+}
+
+.offerdescripton{
+    width: 32%;
+    
+
+}
+.headline{
+    text-align: left;
+    color:red
+    
+}
+.headline1{
+    font-size: 50px;
+    text-align: left;
+    color: #000;
+
+}
+.para{
+    text-align: left;
+}
+.imgBorder{
+    border: 10px solid red;
+    border-radius: 50%;
+   margin: 10px;
+   padding: 10px;
+}
+.headline2{
+    font-size: 40px;
+    text-align: left;
+    color: #000;
+}
+.para1{
+    text-align: left; 
+}
+.imagshow{
+    text-align: left; 
+
+}
+
+.mainsection{
+    width: 1220px;
+    height: 986px;
+    background-color: aqua;
+    margin: 0 auto;
+}
+.newSection{
+    width: 1024px;
+    height: 268px;
+    margin: 0 auto;
+
+    background-color: bisque;
+
+
+}
+.function{
+    text-align: center;
+    margin: 10px;
+    padding-top: 20px;
+}
+.bigHeadline{
+    text-align: center;
+    font-size: 68px;
+}
+.para12{
+    text-align: center;
+    color: white;
+}
+.discount{
+   width: 1000px;
+   height: 500px;
+   border: 1px solid red;
+   margin:  150px auto;
+   background-image: url('./resources/Rectangle\ 2.png');
+   background-repeat: no-repeat;
+   background-position: 100%;
+   background-position-y: bottom;
+   background-size: 100%;
+   position: relative;
+   z-index: 1;
+}
+.discountoffer{
+  
+  
+}
+.image1234{
+width: 400px;
+position: relative;
+top: 100%;
+}
+
+.image12345{
+    position: relative;
+    right: 0;
+    left: 17%;
+   
+
+}
+.image12346{
+    margin-left: 309px;
+    margin-top: -309px;
+  
+}
+.slideimag{
+    margin-top: 50px;
+    width: 1320px;
+    height:1100px;
+    border: 1px solid red;
+
+}
+
+.paraSlide{
+    color: red;
+
+}
+.portfolio{
+    text-align: left;
+}
+.portfolios{
+    font-size: 68px;
+    color: #000;
+    text-align: left;
+
+}
+.subscribe{
+    margin: 0 auto;
+  
+    width: 95%;
+    height: 600px;
+    background-color: beige;
+    text-align: center;
+}
+.subscridescrip h1{
+  margin: 60px;
+}
+.subscribelink{
+   padding: 100px;
+   font-size: 60px;
+   color: black;
+}
+.searchbutton{
+    width: 300px ;
+    height: 70px;
+    background-color: aqua;
+}
+/* .input{
+    border-style: none;
+    width: 400px;
+    height: 50px;
+} */
+
+
+
