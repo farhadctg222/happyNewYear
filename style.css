@@ -1,4 +1,5 @@
 .header{
+    width: 100%;
     height: 600px;
     background-image: url('./resources/Banner\ Image.png');
     background-size: cover;
@@ -8,7 +9,7 @@
    
 }
 .bannerHeader{ 
-   
+    width: 100%;
     height: 256px;
     color: rgb(255, 255, 255); 
  
@@ -34,7 +35,7 @@
 /* new section item  */
 
 .Promotion{
-   
+   width: 100%;
     height: 802px;
   
     margin: auto;
