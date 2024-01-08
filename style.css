@@ -8,7 +8,7 @@
    
 }
 .bannerHeader{ 
-    width: 832px;
+   
     height: 256px;
     color: rgb(255, 255, 255); 
  
@@ -34,7 +34,7 @@
 /* new section item  */
 
 .Promotion{
-    width: 1024px;
+   
     height: 802px;
   
     margin: auto;
@@ -224,10 +224,10 @@
     text-align: center;
     color: white;
 }
+slideDescip
 .discount{
    width: 1000px;
    height: 500px;
-   border: 1px solid red;
    margin:  150px auto;
    background-image: url('./resources/Rectangle\ 2.png');
    background-repeat: no-repeat;
@@ -260,10 +260,9 @@ top: 100%;
   
 }
 .slideimag{
-    margin-top: 50px;
+    margin: 50px auto;
     width: 1320px;
     height:1100px;
-    border: 1px solid red;
 
 }
 
@@ -281,8 +280,8 @@ top: 100%;
 
 }
 .subscribe{
-    margin: 0 auto;
-  
+    margin: 50px auto;
+     
     width: 95%;
     height: 600px;
     background-color: beige;
