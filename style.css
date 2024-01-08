@@ -76,7 +76,7 @@
 }
 .Celebration{
     margin-top: 50px;
-    width: 1350px;
+    width: 100%;
     height: 600px;
     background-image: url('./resources/Vectorrr.png'),linear-gradient(to right, rgba(151, 77, 77, 0), rgba(20, 19, 19, 0.527));
     background-size: cover;
@@ -99,7 +99,7 @@
     font-size: 20px;
 }
 .descriptionHeading{
-    width: 1200px;
+    width: 100%;
     height: 550px;
    display: flex;
    position: absolute;
